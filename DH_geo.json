@@ -1,0 +1,253 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.17286252975464,
+          56.86190070395513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.197667598724365,
+          56.859912411505285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "heart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.18705677986145,
+          56.862982783310756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.198386430740356,
+          56.85548382875052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.20582151412964,
+          56.84924479666494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "gift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.235757648944855,
+          56.84948094258397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.172926902770996,
+            56.861971084052016
+          ],
+          [
+            53.18713188171387,
+            56.86312060688901
+          ],
+          [
+            53.19773197174072,
+            56.859976930028466
+          ],
+          [
+            53.198418617248535,
+            56.8554955607881
+          ],
+          [
+            53.20584297180175,
+            56.84932400105233
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.21223735809326,
+          56.844418879787625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.20586442947388,
+            56.84928879912307
+          ],
+          [
+            53.21223735809326,
+            56.84440714427691
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.21232318878174,
+            56.84439540876252
+          ],
+          [
+            53.23575496673584,
+            56.849605615294244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              53.23576569557189,
+              56.84960854876476
+            ],
+            [
+              53.23521852493286,
+              56.84940613875846
+            ],
+            [
+              53.235406279563904,
+              56.84926826464905
+            ],
+            [
+              53.235894441604614,
+              56.84945307450958
+            ],
+            [
+              53.23576569557189,
+              56.84960854876476
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              53.212162256240845,
+              56.84472693562742
+            ],
+            [
+              53.21184575557708,
+              56.844333797251686
+            ],
+            [
+              53.21196913719177,
+              56.844254582303
+            ],
+            [
+              53.21209788322448,
+              56.844219375605334
+            ],
+            [
+              53.21227490901947,
+              56.844219375605334
+            ],
+            [
+              53.21254849433899,
+              56.84428098730453
+            ],
+            [
+              53.21266114711761,
+              56.84442181366469
+            ],
+            [
+              53.212162256240845,
+              56.84472693562742
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
